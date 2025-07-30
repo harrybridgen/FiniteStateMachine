@@ -1,4 +1,4 @@
-﻿class Main {
+﻿class Program {
     static void Main(String[] args) {
         VendingMachine vendingMachine = new VendingMachine();
         vendingMachine.InsertCoin(20);
